@@ -11,9 +11,9 @@
     <string name="Contact">Contact Us</string>
     <string name="Address1">Schwarztorstrasse 122</string>
     <string name="Address2">3007 Bern, Switzerland</string>
-    <string name="Number">0041 (0) 79 325 46 88</string>
+    <string name="Number">0041 (0) 79 322 88 88</string>
     <string name="Email">gorillucodes@gmail.com"</string>
-    <string name="Website"><a href="http://gorillu.codes//">www.gorillu.codes</a></string>
+    <string name="Website">www.gorillu.codes</string>
     <string name="OfficeHours1">Office Hours</string>
     <string name="OfficeHours2">Mo. - Fri.: 9:00 - 17:00</string>
     <string name="VisitUs">Come visit us...</string>
