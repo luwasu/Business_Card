@@ -1,4 +1,4 @@
-# Business_Card
+# Business_Card App
 
 A business card application with a map and scroll function using ConstraintLayout.
 
